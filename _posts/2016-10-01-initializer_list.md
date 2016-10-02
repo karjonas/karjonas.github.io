@@ -5,10 +5,10 @@ title: std::initializer_list
 
 I was watching one of Bisqwit's awesome [videos](https://www.youtube.com/watch?v=rpLoS7B6T94) and saw a line of code in a for loop I have never seen before. It looked something like this:
 
-```c++
+~~~ c++
 for(unsigned n: { 0xF999F,0x26227,0xF1F8F,0xF1244,
                   0xF9F9F,0xF9F1F,0xF9F99,0xF8F88 })
-```
+~~~
 
 I wondered what type the list would be so I tried to compile this with clang and get the ast dumped but instead I got the following error:
 

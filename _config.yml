@@ -1,6 +1,5 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown 
 
 gems: [jekyll-paginate]
 
@@ -23,3 +22,7 @@ paginate:         5
 
 github:
   repo:           https://github.com/poole/hyde
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
