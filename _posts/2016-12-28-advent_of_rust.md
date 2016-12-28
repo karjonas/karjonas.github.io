@@ -12,6 +12,7 @@ Before starting I had to choose my development setup. I found the [areweideyet](
 
 ## Cargo
 When developing rust projects the idiomatic way is to use [cargo](http://doc.crates.io/) which is a package manager for rust projects. Using cargo you can easily setup dependencies on external projects available at the [crates.io](https://crates.io/) site. When solving the puzzles I had to rely on a few third-party crates (md5, regex, bitflags and skiplist) and including these was very simple, you only needed to add them as a dependency in your Cargo.toml like this:
+
 ```
 [dependencies]
 md5 = "*"
