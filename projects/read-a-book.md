@@ -13,7 +13,7 @@ A point and click game where your mission is to read a book, but you have to ove
  : Adventure Game Studio, GIMP, bfxr.net
 
 **Download**
-: [Win32](https://github.com/karjonas/insanityjam2/releases/tag/untagged-668563ca2b07a59afdf3)
+: [Win32](https://github.com/karjonas/insanityjam2/releases/tag/ags34)
 
 **Source**
 : [GitHub](https://github.com/karjonas/insanityjam2)
