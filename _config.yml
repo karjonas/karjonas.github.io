@@ -12,7 +12,7 @@ title:            Jonas Karlsson
 tagline:          'Hacker extraordinaire'
 description:      'Hacker extraordinaire from Sweden.'
 url:              http://jonask.name
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Jonas Karlsson'
