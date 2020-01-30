@@ -16,12 +16,12 @@ baseurl:          '/'
 
 author:
   name:           'Jonas Karlsson'
-  url:            https://twitter.com/jonas_rofl
+#  url:            https://twitter.com/jonas_rofl
 
 paginate:         5
 
-github:
-  repo:           https://github.com/poole/hyde
+#github:
+#  repo:           https://github.com/poole/hyde
 
 kramdown:
   input: GFM
