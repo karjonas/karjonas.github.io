@@ -19,7 +19,7 @@ Controls:
  : GIMP, bfxr.net, QtCreator, Allegro5 
 
 **Download**
- : [Windows](https://github.com/karjonas/ld36/releases/download/v02/Pyramid_Schemist.zip)
+ : [Windows](https://github.com/karjonas/Pyramid-Schemist/releases/download/v02/Pyramid_Schemist.zip), [Linux AppImage](https://github.com/karjonas/Pyramid-Schemist/releases/download/appimage/Pyramid_Schemist-9ea7e6f-x86_64.AppImage)
 
 **Source**
- : [Github](https://github.com/karjonas/ld36)
+ : [Github](https://github.com/karjonas/Pyramid-Schemist)
