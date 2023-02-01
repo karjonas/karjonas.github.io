@@ -14,7 +14,7 @@ A musical rhythm game where you press the shown key at the correct time indicate
  : C++, cocos2d-x, midifile, GIMP, tuxguitar
 
 **Download**
- : [Windows, Mac OS X](http://jonask.itch.io/peel-the-potatoes)
+ : [Windows, Mac OS X](http://jonask.itch.io/peel-the-potatoes), [Linux AppImage](https://github.com/karjonas/Peel-The-Potatoes/releases/download/appimage/Peel_The_Potatoes-10269a6-x86_64.AppImage)
 
 **Source**
- : [BitBucket](https://bitbucket.org/karjonas/insanityjam4)
+ : [GitHub](https://github.com/karjonas/Peel-The-Potatoes)
