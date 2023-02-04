@@ -14,7 +14,7 @@ A two-button arcade game where you morph into shapes. Created during Ludum Dare 
  : C++, Allegro
 
 **Download**
- : [Windows](https://github.com/karjonas/Linedancer/releases/download/release/Linedancer.zip), [Linux AppImage](https://github.com/karjonas/Linedancer/releases/download/v01/Linedancer-834e260-x86_64.AppImage)
+ : [Windows](https://github.com/karjonas/Linedancer/releases/download/release/Linedancer.zip), [Linux AppImage](https://github.com/karjonas/Linedancer/releases/download/v02/Linedancer-e0b8395-x86_64.AppImage)
 
 **Source**
  : [GitHub](https://github.com/karjonas/Linedancer)
