@@ -9,8 +9,8 @@ permalink:        pretty
 
 # Setup
 title:            Jonas Karlsson 
-tagline:          'Hacker extraordinaire'
-description:      'Hacker extraordinaire from Sweden.'
+#tagline:          'Hacker extraordinaire'
+#description:      'Hacker extraordinaire from Sweden.'
 url:              http://karjonas.github.io
 baseurl:          '/'
 
